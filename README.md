@@ -3,7 +3,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=mitjafelicijan&theme=gotham&count_private=true">
   </a>
 </div>
-<br><br>
+<br>
 
 - Key languages: Nim, Golang, Python, C, Bash.
 - Platforms: GNU/Linux, macOS.
