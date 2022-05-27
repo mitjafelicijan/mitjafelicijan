@@ -1,8 +1,13 @@
-<div align="center">
+<div align="centerr">
   <a href="https://github.com/Piturnah?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=mitjafelicijan&theme=gotham&count_private=true">
   </a>
 </div>
+<br><br>
+
+- Key languages: Nim, Golang, Python, C, Bash.
+- Platforms: GNU/Linux, macOS.
+- Interests: Zigbee, KNX, Modbus, Machine to Machine, Embedded systems, Operating systems, Distributed systems, IOT, RDBMS, Algorithms, Database engine design, SQL, NoSQL, NewSQL, Big data analytics, Machine learning, Prediction algorithms, Realtime analytics, Systems automation, Natural language processing, Bioinformatics.
 
 <!--
 **mitjafelicijan/mitjafelicijan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
