@@ -1,4 +1,4 @@
-I use Github as a mirror for my projects. To see my newest stuff check outL
+I use Github as a mirror for my projects. To see my newest stuff check out:
 
 - https://git.mitjafelicijan.com
 - https://files.mitjafelicijan.com
