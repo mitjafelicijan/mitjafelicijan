@@ -1,9 +1,3 @@
-I use Github as a mirror for my projects. To see my newest stuff check out:
-
-- https://git.mitjafelicijan.com
-- https://files.mitjafelicijan.com
-- https://mitjafelicijan.com
-
 About me:
 
 - **Key languages:** C, Golang, Lua, Python, Bash.
