@@ -1,3 +1,3 @@
 - **Key languages:** C, Golang, Lua, Python, Common Lisp, Bash.
 - **Platforms:** GNU/Linux, macOS.
-- **Interests:** Machine to Machine, Embedded systems, Operating systems, Distributed systems, IOT, Database engine design, Big data analytics, Machine learning, Realtime analytics, Systems automation, Natural language processing, Bioinformatics, Game development, Vizualizations.
+- **Key interests:** Machine to Machine, Embedded systems, Operating systems, Distributed systems, IOT, Database engine design, Big data analytics, Machine learning, Realtime analytics, Systems automation, Natural language processing, Bioinformatics, Game development, Vizualizations.
